@@ -1,8 +1,8 @@
-# 🌫️ Pune AQI Dashboard
+# 📊 Pune AQI Dashboard
 
 An interactive Dash dashboard for analyzing Pune's Air Quality Index (AQI), pollution levels, and health risk trends across 20 wards from 2022–2024.
 
-## 📊 Features
+##  Features
 
 - 5 KPI Cards (AQI, PM2.5, Health Risk, Unhealthy Days, Hospital Admissions)
 - Monthly AQI Trend Analysis
@@ -14,7 +14,7 @@ An interactive Dash dashboard for analyzing Pune's Air Quality Index (AQI), poll
 - Health Risk Leaderboard Table
 - Interactive Filters & AQI Threshold Slider
 
-## 📂 Dataset
+##  Dataset
 
 **Pune_AQI_Dataset.xlsx**
 
